@@ -46,3 +46,28 @@ TvmhQc6+i4rb7n6TFBsdwV4kAkAJWYsuT/nSRPJMKk7fp+1J18KhI+Bio/lKW1Cc
 9mQOgu7UA3bVdlG9o2ClTped6cdsQBwHI6OeAiK5tLl6XGsMAhQSroLIAx0FJt/X
 kpw5ADlkoSpwEw==
 -----END DSA PRIVATE KEY-----"""
+
+
+
+# ECDSAKey
+devops_engineering_pem = """-----BEGIN EC PRIVATE KEY-----
+	MIGlAgEBBDEAlEdfZvdbm3LMrcHRS7jxSzzE9cP52QIHjm41Z7MWrexaV8u7WplX
+	OYlE/Z+o0wCxoAcGBSuBBAAioWQDYgAEfmdSj4QVYTqJxV0GdcwBGkRZznNVy5r6
+	skeRmnWbc/j3tyX30mCHHxGxnml9rG2HO7hV2jfIlPtrsTeVmWZd5VPBEQzpLrWU
+	kW7kf1G+swUfPcnfG1q9xr51hYtJRuv7
+-----END EC PRIVATE KEY-----"""
+
+
+
+#  to make the format a bit weird on purpose ED25519
+software_engineering_pem = """
+-----BEGIN OPENSSH PRIVATE KEY-----
+	b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+	QyNTUxOQAAACALygNJ/HR2f8Bqlx4dsspBQ8+klAiFoddGBa9vJ9BejQAAAJBDQMIoQ0DC
+	KAAAAAtzc2gtZWQyNTUxOQAAACALygNJ/HR2f8Bqlx4dsspBQ8+klAiFoddGBa9vJ9BejQ
+	AAAEBBUeOGENwLLKDUIxmBHE+d6srOZVSAlktEUSvJvspXOQvKA0n8dHZ/wGqXHh2yykFD
+	z6SUCIWh10YFr28n0F6NAAAADWdsZWJAcmV5cy5uZXQ=
+  
+-----END OPENSSH PRIVATE KEY-----"""
+
+
